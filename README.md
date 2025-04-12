@@ -23,13 +23,13 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
    ![Step5]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.5_Conecta_y_Carga.png "Conecta y Carga")
 
 
-3. Procedemos a crear la base de nuestro microcontrolador, la cual conectaremos con nuestra placa programadora, para eso tomaremos nuestra placa fenolica de 8x20 y con la ayuda de jumpers haremos las conexiones debidas, tal cual se muestran en la imagen
+3. Procedemos a crear la base de nuestro microcontrolador, la cual conectaremos con nuestra placa programadora, para eso tomaremos nuestra placa fenolica de 8x20, el socket de 8 pines, nuestro led rojo, la resistencia asi como el capacitor y con la ayuda de jumpers haremos las conexiones debidas, tal cual se muestran en la imagen
 
 ![Placa Frontal]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Placa_Grabadora.png "PlacaFrontal")
 ![Placa Reverso]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Trasera.jpg "PlacaReverso")
 
-
-   
+# IMPORTANTE
+4. Paso I M P O R T A N T E una vez creada nuestra placa y teniendo nuestro ArduinoUNO ya configurado como programadorISP tendremos que instalar el gestor de tarjetas ATtiny, ya que de no hacerlo nunca encontraremos las librerias necesarias para cargar, programar o configurar nuestro Microcontrolador
 
    
 
