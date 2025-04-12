@@ -17,10 +17,10 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
    ![Step3]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.3_Ejemplos.png "Ejemplos")
 
    2.4. Selecciona Arduino ISP
-   ![Step3]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.4_ArduinoISP.png "ArduinoISP")
+   ![Step4]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.4_ArduinoISP.png "ArduinoISP")
 
    2.5. Conecta tu Placa ArduinoUNO y Carga el codigo
-   ![Step3]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.5_Conecta_y_Carga.png "Conecta y Carga")
+   ![Step5]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.5_Conecta_y_Carga.png "Conecta y Carga")
 
 
 4. 
