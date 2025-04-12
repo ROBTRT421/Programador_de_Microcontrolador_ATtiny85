@@ -4,4 +4,4 @@ ArduinoUNO como "Programadora" y su IDE, para la configuracion de la misma, todo
 para la correcta elaboracion casera pero eficiente de nuestro "Programador de Microcontroladores"
 
 # Tutorial
-1. Obtenga las piezas, instale [Arduino IDE] (https://www.arduino.cc/en/Main/Software), instale los controladores para Arduino (si tiene un clon de Arduino Y está utilizando Windows)
+1. Obtenga las piezas, instale [Arduino IDE] (https://www.arduino.cc/en/Main/Software), instale los controladores para Arduino (igual funciona si tiene un clon de Arduino Y está utilizando Windows)
