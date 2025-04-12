@@ -5,4 +5,4 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
 
 # Tutorial
 1. Obtenga las piezas, instale [Arduino IDE] (https://www.arduino.cc/en/Main/Software), instale los controladores para Arduino (igual funciona si tiene un clon de Arduino Y está utilizando Windows)
-2. Configure 
+2. Configure la placa ArduinoUNO como un programador ArduinoISP "
