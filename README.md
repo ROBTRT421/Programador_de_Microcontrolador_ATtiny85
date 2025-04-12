@@ -28,7 +28,7 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
 ![Placa Frontal]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Placa_Grabadora.png "PlacaFrontal")
 ![Placa Reverso]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Trasera.jpg "PlacaReverso")
 
-# IMPORTANTE
+
 4. Paso I M P O R T A N T E una vez creada nuestra placa y teniendo nuestro ArduinoUNO ya configurado como programadorISP tendremos que instalar el gestor de tarjetas ATtiny, ya que de no hacerlo nunca encontraremos las librerias necesarias para cargar, programar o configurar nuestro Microcontrolador
 
    
