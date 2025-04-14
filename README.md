@@ -29,7 +29,17 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
 ![Placa Reverso]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Trasera.jpg "PlacaReverso")
 
 
-4. Paso I M P O R T A N T E una vez creada nuestra placa y teniendo nuestro ArduinoUNO ya configurado como programadorISP tendremos que instalar el gestor de tarjetas ATtiny, ya que de no hacerlo nunca encontraremos las librerias necesarias para cargar, programar o configurar nuestro Microcontrolador
+4. Paso I M P O R T A N T E una vez creada nuestra placa y teniendo nuestro ArduinoUNO ya configurado como programadorISP tendremos que instalar el gestor de tarjetas ATtiny, ya que de no hacerlo nunca encontraremos las librerias necesarias para cargar, programar o configurar nuestro Microcontrolador, esto lo haremos con la siguiente ruta, una vez iniciado ArduinoIDE "Archivo > Preferencias > URLs adicionales de gestor de placas" y en el apartado copiar y pegar el siguiente URL, tal y como se muestra en las imagenes ilustrativas > https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json <
+   4.1 Archivo
+      ![Archivo]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.2_Archivo.png "Archivo")
+   4.2 Preferencias
+      ![Preferencias]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step2_Preferencias.png "Preferenciaas")
+   4.3 URLs
+      ![URLs]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step3_URLS.png "URLs")
+   4.4 Introduce URL
+      ![PegaURL]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step4_IntroduceURL.png "PegaURL")
+
+5. 
 
    
 
