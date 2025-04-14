@@ -33,15 +33,18 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
 
    4.1 Archivo
       ![Archivo]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.2_Archivo.png "Archivo")
+
    4.2 Preferencias
       ![Preferencias]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step2_Preferencias.png "Preferenciaas")
+
    4.3 URLs
       ![URLs]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step3_URLS.png "URLs")
+
    4.4 Introduce URL
       ![PegaURL]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step4_IntroduceURL.png "PegaURL")
 
 
-5. 
+6. 
 
    
 
