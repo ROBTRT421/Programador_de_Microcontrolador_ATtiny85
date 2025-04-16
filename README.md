@@ -44,7 +44,13 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
       ![PegaURL]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step4_IntroduceURL.png "PegaURL")
 
 
-6. 
+5. Como penultimo paso, procederemos a descargar la libreria ATtiny creada por David A. Mellis, en el buscador escribimos attiny e instalamos la libreria tal y como se muestra en la imagen
+
+      5.1 Board attiny
+   ![BoardATtiny]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/BoardATtiny.png "BoardATtiny")
+
+
+6. A trabajar, ya realizados los pasos anteriores con exito, procederemos a conectar todo, nuestro Microcontrolador a la base programadora, la base programadora a nuestra placa programadora y la placa programadora a nuestra computadora 
 
    
 
