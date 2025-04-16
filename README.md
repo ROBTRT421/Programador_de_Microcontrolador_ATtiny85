@@ -47,8 +47,22 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
 
 
 
-5. A trabajar, ya realizados los pasos anteriores con exito, procederemos a conectar todo, nuestro Microcontrolador a la base programadora, la base programadora a nuestra placa programadora y la placa programadora a nuestra computadora, copiaremos [el código](https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Test_de_Programacion_ATtiny85.ino) lo pegaremos en nuestro IDE Arduino y haremos los ultimos ajustes en nuestro IDE para que todo salga a la perfeccion, recuerda que este codigo de prueba solo hara prenda y apague nuestro led de la base programadora, de esa forma sab 
+5. A trabajar, ya realizados los pasos anteriores con exito, procederemos a conectar todo, nuestro Microcontrolador a la base programadora, la base programadora a nuestra placa programadora y la placa programadora a nuestra computadora, copiaremos [el código](https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Test_de_Programacion_ATtiny85.ino) lo pegaremos en nuestro IDE Arduino y haremos los ultimos ajustes en nuestro IDE para que todo salga a la perfeccion, recuerda que este codigo de prueba solo prende y apaga un led, pero una ves hecho esto, ya podremos montarle cualquier codigo a nuestro micorcontolador. las siguientes imagentes ilutrsativas describen las ultimas configuraciones.
 
+      5.1 Placa a Programar
+         ![Board]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step1.Herramienta_Placa_ATtiny_85.png "Board")
+
+      5.2 Puerto
+         ![Port]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step2.Puerto.png "Port")
+
+      5.3 Reloj
+         ![Clock]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step3.Clock_1MHZ.png "Clock")
+
+      5.4 Processor
+         ![Processor]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step4.Processor_ATtiny85.png "Processor")
+
+      5.5 ArduinoISP
+         ![ISP]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step5.Programador_ArduinoISP.png "ISP")
    
 
 
