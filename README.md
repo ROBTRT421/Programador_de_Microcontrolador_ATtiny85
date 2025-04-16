@@ -29,8 +29,7 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
 ![Placa Reverso]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Trasera.jpg "PlacaReverso")
 
 
-4. Paso I M P O R T A N T E una vez creada nuestra placa y teniendo nuestro ArduinoUNO ya configurado como programadorISP tendremos que instalar el gestor de tarjetas ATtiny, ya que de no hacerlo nunca encontraremos las librerias necesarias para cargar, programar o configurar nuestro Microcontrolador, esto lo haremos con la siguiente ruta, una vez iniciado ArduinoIDE "Archivo > Preferencias > URLs adicionales de gestor de placas" y en el apartado copiar y pegar el siguiente URL, tal y como se muestra en las imagenes ilustrativas > https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json <
-
+4. Paso I M P O R T A N T E una vez creada nuestra placa y teniendo nuestro ArduinoUNO ya configurado como programadorISP tendremos que instalar el gestor de tarjetas ATtiny, ya que de no hacerlo nunca encontraremos las librerias necesarias para cargar, programar o configurar nuestro Microcontrolador, esto lo haremos con la siguiente ruta, una vez iniciado ArduinoIDE "Archivo > Preferencias > URLs adicionales de gestor de placas" y en el apartado copiar y pegar el siguiente URL > https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json <, una vez echo esto, ahora si podras encontrar el gestor de placas tal y como se muestra en las imagenes ilustrativas. 
    4.1 Archivo
       ![Archivo]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step.2_Archivo.png "Archivo")
 
@@ -43,14 +42,12 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
    4.4 Introduce URL
       ![PegaURL]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Step4_IntroduceURL.png "PegaURL")
 
-
-5. Como penultimo paso, procederemos a descargar la libreria ATtiny creada por David A. Mellis, en el buscador escribimos attiny e instalamos la libreria tal y como se muestra en la imagen
-
-      5.1 Board attiny
-   ![BoardATtiny]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/BoardATtiny.png "BoardATtiny")
+   4.5 Board ATtiny
+      ![BoardATtiny]( https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/BoardATtiny.png "BoardATtiny")
 
 
-6. A trabajar, ya realizados los pasos anteriores con exito, procederemos a conectar todo, nuestro Microcontrolador a la base programadora, la base programadora a nuestra placa programadora y la placa programadora a nuestra computadora 
+
+7. A trabajar, ya realizados los pasos anteriores con exito, procederemos a conectar todo, nuestro Microcontrolador a la base programadora, la base programadora a nuestra placa programadora y la placa programadora a nuestra computadora 
 
    
 
