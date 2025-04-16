@@ -47,7 +47,7 @@ para la correcta elaboracion casera pero eficiente de nuestro "Programador de Mi
 
 
 
-7. A trabajar, ya realizados los pasos anteriores con exito, procederemos a conectar todo, nuestro Microcontrolador a la base programadora, la base programadora a nuestra placa programadora y la placa programadora a nuestra computadora 
+5. A trabajar, ya realizados los pasos anteriores con exito, procederemos a conectar todo, nuestro Microcontrolador a la base programadora, la base programadora a nuestra placa programadora y la placa programadora a nuestra computadora, copiaremos [el código](https://github.com/ROBTRT421/Programador_de_Microcontrolador_ATtiny85/blob/main/Test_de_Programacion_ATtiny85.ino) lo pegaremos en nuestro IDE Arduino y haremos los ultimos ajustes, en nuestro IDE para que todo salga a la perfeccion y este codigo de prueba, predna y apague nuestro led de la base programadora, de esa forma sabremos que todo esta P E R F E C T O, y podremos programar nuestro Microcontrolador con lo que sea que necesitemos que haga 
 
    
 
